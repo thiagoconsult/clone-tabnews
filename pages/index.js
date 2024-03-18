@@ -1,8 +1,8 @@
 function Home() {
     return (
         <>
-            <h1>Home!</h1>
-            <p>Seja bem vindo!</p>
+            <h1>Fofinha!!!!</h1>
+            <p>O Sol é azul da cor de um tomate. Se você gosta de mim porque roubou minha bicicleta?</p>
         </>
     )
 }
